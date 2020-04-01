@@ -1,4 +1,4 @@
-T### Getting Started
+### Getting Started
 
 Clone the project repository
 
